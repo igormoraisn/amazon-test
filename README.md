@@ -1,6 +1,6 @@
 # amazon-test
 
-Dependencies:
+Dependencies to perform the tests:
 
 Install Robot Framework
 pip install --upgrade robotframework
