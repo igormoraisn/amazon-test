@@ -1,15 +1,15 @@
 # amazon-test
 
-Dependencies to perform the tests:
+<h2>Dependencies to perform the tests:</h2>
 
-Install Robot Framework
-pip install --upgrade robotframework
+<h3>Install Robot Framework</h3>
+<p>pip install --upgrade robotframework</p>
 
-Install Selenium2Library
-pip install --upgrade robotframework-selenium2library
+<h3>Install Selenium2Library</h3>
+<p>pip install --upgrade robotframework-selenium2library</p>
 
-Install requests package
-pip install --upgrade requests
+<h3>Install requests package</h3>
+<p>pip install --upgrade requests</p>
 
-To run the project, clone this repository and apply the command:
-robot Amazon\ prices/
+<h3>To run the project, clone this repository and apply the command:</h3>
+<p>robot Amazon\ prices/</p>
